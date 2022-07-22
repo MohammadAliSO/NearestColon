@@ -1,0 +1,15 @@
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\NearestColon.exe
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\NearestColon.deps.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\NearestColon.runtimeconfig.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\NearestColon.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\ref\NearestColon.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\bin\Debug\net6.0\NearestColon.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.csproj.AssemblyReference.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.AssemblyInfoInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.AssemblyInfo.cs
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.csproj.CoreCompileInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\ref\NearestColon.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\NearestColon\NearestColon\NearestColon\obj\Debug\net6.0\NearestColon.genruntimeconfig.cache
